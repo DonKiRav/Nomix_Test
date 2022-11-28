@@ -1,0 +1,17 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-Nomix_Test.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\USER\Desktop\Unreal_Engine_Projects\Nomix_Test\Intermediate\Build\Win64\Nomix_TestEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\USER\Desktop\Unreal_Engine_Projects\Nomix_Test\Intermediate\Build\Win64\UE4Editor\Development\Nomix_Test\Nomix_Test.cpp.obj"
+"C:\Users\USER\Desktop\Unreal_Engine_Projects\Nomix_Test\Intermediate\Build\Win64\UE4Editor\Development\Nomix_Test\Nomix_TestCharacter.cpp.obj"
+"C:\Users\USER\Desktop\Unreal_Engine_Projects\Nomix_Test\Intermediate\Build\Win64\UE4Editor\Development\Nomix_Test\Nomix_TestGameMode.cpp.obj"
+"C:\Users\USER\Desktop\Unreal_Engine_Projects\Nomix_Test\Intermediate\Build\Win64\UE4Editor\Development\Nomix_Test\Nomix_Test.init.gen.cpp.obj"
+"C:\Users\USER\Desktop\Unreal_Engine_Projects\Nomix_Test\Intermediate\Build\Win64\UE4Editor\Development\Nomix_Test\Nomix_TestCharacter.gen.cpp.obj"
+"C:\Users\USER\Desktop\Unreal_Engine_Projects\Nomix_Test\Intermediate\Build\Win64\UE4Editor\Development\Nomix_Test\Nomix_TestGameMode.gen.cpp.obj"
+"C:\Users\USER\Desktop\Unreal_Engine_Projects\Nomix_Test\Intermediate\Build\Win64\UE4Editor\Development\Nomix_Test\Default.rc2.res"
+/OUT:"C:\Users\USER\Desktop\Unreal_Engine_Projects\Nomix_Test\Intermediate\Build\Win64\UE4Editor\Development\Nomix_Test\UE4Editor-Nomix_Test.lib"

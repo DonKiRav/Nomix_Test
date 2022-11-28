@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Nomix_Test",
+			"Path": "C:\\Users\\USER\\Desktop\\Unreal_Engine_Projects\\Nomix_Test\\Source\\Nomix_Test.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "Nomix_TestEditor",
+			"Path": "C:\\Users\\USER\\Desktop\\Unreal_Engine_Projects\\Nomix_Test\\Source\\Nomix_TestEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

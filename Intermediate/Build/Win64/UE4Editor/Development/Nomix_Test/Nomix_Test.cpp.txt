@@ -1,0 +1,2 @@
+C:\Users\USER\Desktop\Unreal_Engine_Projects\Nomix_Test\Intermediate\Build\Win64\UE4Editor\Development\Nomix_Test\Definitions.Nomix_Test.h
+C:\Users\USER\Desktop\Unreal_Engine_Projects\Nomix_Test\Source\Nomix_Test\Nomix_Test.h
